@@ -18,6 +18,10 @@ I accept pull-requests.
 * One computer, I run Linux, but this code will work in other OSs
 * BEWARE: if you have a restrictive firewall you might have to configure the port 8025 TCP/IP to be open for data
 
+## Disclaimer
+
+The code includes the password to the WiFi in the camping ... I left it in there for you to have one more reason to come by ... free WiFi!
+
 ## Credits
 
 * S. Mistry: websockets code, ENV library
